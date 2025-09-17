@@ -1,0 +1,30 @@
+2025/09/15-20:45:34.532 a203 Reusing MANIFEST /Users/arnav/Documents/Creative/pdFile/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/09/15-20:45:34.533 a203 Recovering log #9
+2025/09/15-20:45:34.533 a203 Reusing old log /Users/arnav/Documents/Creative/pdFile/.wwebjs_auth/session/Default/Local Storage/leveldb/000009.log 
+2025/09/15-23:15:50.925 15527 Level-0 table #13: started
+2025/09/15-23:15:50.934 15527 Level-0 table #13: 14321 bytes OK
+2025/09/15-23:15:50.943 15527 Delete type=0 #9
+2025/09/16-10:40:28.568 15523 Level-0 table #15: started
+2025/09/16-10:40:28.575 15523 Level-0 table #15: 15135 bytes OK
+2025/09/16-10:40:28.588 15523 Delete type=0 #12
+2025/09/16-14:31:45.760 158df Level-0 table #17: started
+2025/09/16-14:31:45.766 158df Level-0 table #17: 16112 bytes OK
+2025/09/16-14:31:45.774 158df Delete type=0 #14
+2025/09/16-14:31:45.779 158df Compacting 4@0 + 1@1 files
+2025/09/16-14:31:45.786 158df Generated table #18@0: 39 keys, 4518 bytes
+2025/09/16-14:31:45.786 158df Compacted 4@0 + 1@1 files => 4518 bytes
+2025/09/16-14:31:45.793 158df compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/16-14:31:45.793 158df Delete type=2 #15
+2025/09/16-14:31:45.793 158df Delete type=2 #17
+2025/09/16-14:31:45.793 158df Delete type=2 #13
+2025/09/16-14:31:45.793 158df Delete type=2 #10
+2025/09/16-14:31:45.793 158df Delete type=2 #8
+2025/09/16-15:56:42.949 b933 Level-0 table #20: started
+2025/09/16-15:56:42.958 b933 Level-0 table #20: 16161 bytes OK
+2025/09/16-15:56:42.968 b933 Delete type=0 #16
+2025/09/17-00:09:33.776 1321f Level-0 table #22: started
+2025/09/17-00:09:33.789 1321f Level-0 table #22: 15799 bytes OK
+2025/09/17-00:09:33.809 1321f Delete type=0 #19
+2025/09/17-02:42:24.402 4ec7 Level-0 table #24: started
+2025/09/17-02:42:24.410 4ec7 Level-0 table #24: 16239 bytes OK
+2025/09/17-02:42:24.420 4ec7 Delete type=0 #21
